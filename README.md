@@ -4,11 +4,11 @@
 
 # Light PDF Viewer
 
-**v1.0.1** &nbsp;•&nbsp; **Windows 10 / 11 (x64)** &nbsp;•&nbsp; **Ultra-Light Native Viewer**
+**v1.0.2** &nbsp;•&nbsp; **Windows 10 / 11 (x64)** &nbsp;•&nbsp; **Ultra-Light Native Viewer**
 
 *A fast, ultra-lightweight PDF viewer for Windows — built for clean reading with zero bloat, zero background processes, and zero tracking.*
 
-[Download v1.0.1 (`LightPDF_Setup.exe`)](https://github.com/anivimorthala/LightPDF/releases/latest)
+[Download v1.0.2 (`LightPDF_Setup.exe`)](https://github.com/anivimorthala/LightPDF/releases/latest)
 
 </div>
 
@@ -31,11 +31,11 @@
 | **Zero Background Footprint** | Disabled on Windows boot, never auto-opens Chrome/Edge downloads, and exits completely on close. |
 | **Zero Tracking** | No telemetry, no saved history, and temporary session cache is deleted automatically on exit. |
 | **1-Click Installer & Uninstall** | `LightPDF_Setup.exe` checks `.NET Framework 4.x` & `WebView2`, installs cleanly, and supports **Control Panel / Installed Apps** uninstall. |
-| **Manual Updates (`v1.0.1`)** | Click **`v1.0.1 • Updates`** in the top bar anytime to check GitHub Releases for new versions and release notes. |
+| **Manual Updates (`v1.0.2`)** | Click **`v1.0.2 • Updates`** in the top bar anytime to check GitHub Releases for new versions and release notes. |
 
 ---
 
-## Installation (`v1.0.1`)
+## Installation (`v1.0.2`)
 
 1. Download **`LightPDF_Setup.exe`** from the [Releases](https://github.com/anivimorthala/LightPDF/releases) page (or directly from this repository).
 2. Double-click **`LightPDF_Setup.exe`** and click **Install** *(if Edge WebView2 is missing on an older Windows 10 PC, the setup offers a 1-click official Microsoft download with live progress)*.
@@ -57,9 +57,9 @@
 
 ---
 
-## Release Checksums (`v1.0.1`)
+## Release Checksums (`v1.0.2`)
 
 | File | SHA-256 |
 | :--- | :--- |
-| `LightPDF_Setup.exe` | `5FD8ABF6FD6100CA261C0FBA046F87C6AA93C99F5CB2782823EAB5F3A6484182` |
-| `LightPDF.exe` | `194FE987016F6D48EA58403AD621E1A11CCB5416374223F959E5B8D1280404F3` |
+| `LightPDF_Setup.exe` | `58887E436C49FEDC9EFE0F3FE668DEFCE4374BEDE24E7948287164178EFC8A56` |
+| `LightPDF.exe` | `39EBFF18590EB96BAC28EB34034308C1D21B5E2265A6816B75EFD3CB6E00EF1B` |

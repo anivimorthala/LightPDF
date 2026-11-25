@@ -1,0 +1,8 @@
+# Keep source code private (do not push .cs or build scripts to GitHub)
+*.cs
+*.py
+*.bat
+*.ps1
+*.spec
+LightPDF/*
+!LightPDF/app_icon.png

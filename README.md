@@ -31,7 +31,7 @@
 | **Distraction-Free Mode** | Press `F11` to hide the top bar for full-screen reading (`Esc` to exit). |
 | **Zero Background Footprint** | Disabled on Windows boot, never auto-opens Chrome/Edge downloads, and exits completely on close. |
 | **Zero Tracking** | No telemetry, no saved history, and temporary session cache is deleted automatically on exit. |
-| **1-Click Installer & Uninstall** | `LightPDF_Setup.exe` checks `.NET Framework 4.x` & `WebView2`, installs cleanly, and supports **Control Panel / Installed Apps** uninstall. |
+| **1-Click Installer & Uninstall** | `LightPDF_Setup.exe` checks `.NET Framework 4.6.2+` & `WebView2`, installs cleanly, and supports **Control Panel / Installed Apps** uninstall. |
 | **Manual Updates (`v1.0.3`)** | Click **`v1.0.3 • Updates`** in the top bar anytime to check GitHub Releases for new versions and release notes. Downloads are checked against the SHA-256 GitHub publishes for the release file. |
 
 ---
@@ -62,5 +62,5 @@
 
 | File | SHA-256 |
 | :--- | :--- |
-| `LightPDF_Setup.exe` | `7727B976C88F2E600B8C8B067F5E9480150BD07FB4F8FCF85532BA54828678EA` |
-| `LightPDF.exe` | `BAAA220C79898D0E613D7C01D65D0A7799FB63D19EB39E715E5B473FEB155C67` |
+| `LightPDF_Setup.exe` | `F5DF8A7A1C8326A4895BECE244028B3696E2CFBAA65D1D29A834370007FC4C80` |
+| `LightPDF.exe` | `0F854EBAB79A9D6429E41FE9EFDC6317EFAC65126AE6C376C99BAA3B23334013` |

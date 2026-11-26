@@ -6,3 +6,6 @@
 *.spec
 LightPDF/*
 !LightPDF/app_icon.png
+
+# Never commit PDFs (test or personal documents)
+*.pdf
